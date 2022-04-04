@@ -12,7 +12,7 @@ const ReviewSection = () => {
             <br />
             <div className='grid grid-cols-3 gap-6 pl-16 pr-16 mt-3'>
                 {
-                    reviews.slice(0,3).map(review => <Review key={review.id} review={review}></Review>)
+                    // reviews.slice(0,3).map(review => <Review key={review.id} review={review}></Review>)
                 }
             </div>
             <div className='text-center mt-8'>
