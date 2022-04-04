@@ -7,7 +7,7 @@ const HomePage = () => {
             <div className='text-left'>
                 <h1 className='text-6xl font-mono my-3'>Ethereum</h1>
                 <p className='text-xl my-3 font-thin'>Ethereum is a network that revolutionised the financial industry through the popularisation of Decentralised Finance (DeFi). And a programming language that makes it possible for any developer to build and publish next-generation decentralized applications.</p>
-                <button className='btn rounded bg-indigo-400 p-3 font-thin text-white mt-6' href='https://www.g2.com/products/ethereum/reviews#details'>Read More</button>
+                <button className='btn rounded bg-indigo-400 p-3 font-thin text-white mt-6  transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300' href='https://www.g2.com/products/ethereum/reviews#details'>Read More</button>
             </div>
             <div>
                 <img className='ml-12' src={ethereum} alt="" />

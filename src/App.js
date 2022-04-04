@@ -7,6 +7,7 @@ import { createContext } from 'react';
 import useReviews from './hooks/useReviews';
 import ReviewPage from './components/ReviewPage/ReviewPage';
 import Dashboard from './components/Dashboard/Dashboard';
+import Blogs from './components/Blogs/Blogs';
 
 export const ReviewContext = createContext('reviews');
 
@@ -22,6 +23,7 @@ function App() {
           <Route path="/" element={<Home></Home>}></Route>
           <Route path="/review" element={<ReviewPage></ReviewPage>}></Route>
           <Route path="/dashboard" element={<Dashboard></Dashboard>}></Route>
+          <Route path="/blogs" element={<Blogs></Blogs>}></Route>
         </Routes>
         <Footer></Footer>
       </div>

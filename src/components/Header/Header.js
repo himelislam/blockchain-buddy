@@ -1,13 +1,16 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import blockchainbuddy from '../../images/blockchainbuddy.jpg'
 
 const Header = () => {
     return (
         <div className='flex justify-between items-center h-[70px] bg-slate-500 pl-16 pr-16'>
             <div className='w-[70px] h-[70px]'>
-                <img src={blockchainbuddy} alt="" />
+                <Link to='/'>
+                    <img src={blockchainbuddy} alt="" />
+                </Link>
             </div>
+                <h2 className='text-4xl text-white font-mono'>Blockchain Buddy</h2>
             <div className='text-white font-medium'>
                 <NavLink
                     className={({isActive}) => (isActive ? 'mr-8 text-black' : 'mr-8 text-white')}

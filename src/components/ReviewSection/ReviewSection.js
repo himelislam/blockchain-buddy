@@ -10,14 +10,14 @@ const ReviewSection = () => {
             <h2 className='text-5xl text-center font-mono font-semibold text-gray-600 mt-10 mb-8'>Review Section</h2>
             <hr />
             <br />
-            <div className='grid grid-cols-3 gap-6 pl-16 pr-16 mt-3'>
+            <div className='grid grid-cols-3 gap-8 pl-16 pr-16 mt-3'>
                 {
                     // reviews.slice(0,3).map(review => <Review key={review.id} review={review}></Review>)
                 }
             </div>
             <div className='text-center mt-8'>
                 <Link to='/review'>
-                <button className='btn rounded p-4 text-xl font-mono bg-red-300 mx-auto'>See All Reviews</button>
+                <button className='btn rounded p-4 text-xl text-white font-mono bg-red-300 mx-auto transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300'>See All Reviews</button>
                 </Link>
             </div>
         </div>
