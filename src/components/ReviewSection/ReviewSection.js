@@ -17,7 +17,7 @@ const ReviewSection = () => {
             </div>
             <div className='text-center mt-8'>
                 <Link to='/review'>
-                <button className='btn rounded p-4 text-xl text-white font-mono bg-red-300 mx-auto transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300'>See All Reviews</button>
+                <button className='btn rounded p-4 text-xl text-white font-mono mx-auto transition ease-in-out delay-150 bg-slate-500 hover:-translate-y-1 hover:scale-110 hover:bg-gray-700 duration-300'>See All Reviews</button>
                 </Link>
             </div>
         </div>
