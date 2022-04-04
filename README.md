@@ -9,15 +9,16 @@ Netlify Live Site [Link](https://blockchainbuddy.netlify.app/)
 
 ### Tech Used
 
-    * HTML
-    * Css
-    * Javascript
-    * React.js (Javascript Library)
-    * React Tailwind (Css Framework)
-    * React Fontawsome
-    * React Router
-    * Custom Hooks
-    * Context API
+- Details:
+    - HTML
+    - Css
+    - Javascript
+    - React.js (Javascript Library)
+    - React Tailwind (Css Framework)
+    - React Fontawsome
+    - React Router
+    - Custom Hooks
+    - Context API
 
 ### About The Project
 
