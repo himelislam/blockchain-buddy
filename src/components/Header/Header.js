@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
-import blockchainbuddy from '../images/blockchainbuddy.jpg'
+import { NavLink } from 'react-router-dom';
+import blockchainbuddy from '../../images/blockchainbuddy.jpg'
 
 const Header = () => {
     return (

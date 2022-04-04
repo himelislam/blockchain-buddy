@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Joseph S",
+        "review": "They have made many improvements to the mining aspect of the tech. Contract deployment speed has increased significantly. The language is straightforward to learn and understand. If you are looking to get into cryptocurrency, Ethereum is probably the best tech to start with.",
+        "ratings": 4,
+        "img": "https://images.g2crowd.com/uploads/avatar/image/511459/thumb_square_d0da126c4333bebaf37a757fb91c612d.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "James C",
+        "review": "It allows me to converse with other users and still keeps my data and my funds secure, also allows you to create software with which you can manage and automate transactions.. and has the ability to reduce costs, It also allows you to create your own Criptomoneda",
+        "ratings": 4,
+        "img": "https://images.g2crowd.com/uploads/avatar/image/420337/thumb_square_e2def1b60611b4508e0209333639cf53.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Faran Ahmed Y",
+        "review": "Time when Ethereum came, transactions with messages really astonished me that we can send transactions with messages as well. This really helped us all create any kind of real world existing applications. I created wallets and worked for e-commerce application to buy assets for tokens.",
+        "ratings": 5,
+        "img": "https://images.g2crowd.com/uploads/avatar/image/276212/thumb_square_5b42592f7290b9bf468cb42ba4fd9c04.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Sagar H",
+        "review": "Ethereum was my first blockchain platform for development and I just loved it. Due to existing community support, it’s very easy to learn and with the help of various plugins you can simulate the whole process of transacting ethers (crypto-currency).",
+        "ratings": 4,
+        "img": "https://images.g2crowd.com/uploads/avatar/image/276203/thumb_square_07e509ca0e593ee5727ee784bae5bc25.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Quintin T",
+        "review": "From the start we had a way to expand and that expansion came from Ethereum. From there the world of crypto bloomed into the network it is today, by providing the platform that the everyday individual could utilize and expand upon through ERC20's ( a token run through the Ethereum blockchain ).",
+        "ratings": 4,
+        "img": "https://images.g2crowd.com/uploads/avatar/image/77122/thumb_square_1552850762.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Mitchell C",
+        "review": "Development platform and cryptocurrency utilizing the blockchain and bringing developers and users together. Decentralized applications on the ethereum network can operate autonomously including interacting with users via smart contract execution. ERC-20 tokens can be issued by any decentralized applications that also transact on the same blockchain as ethereum which enables fundraising, dividend sharing, loyalty point accumulation.",
+        "ratings": 4,
+        "img": "https://images.g2crowd.com/uploads/avatar/image/123802/thumb_square_975d2e33d448772c9216dbb06674f1c7.jpeg"
+    }
+]
