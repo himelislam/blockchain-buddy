@@ -4,7 +4,7 @@ import Review from '../Review/Review';
 
 const ReviewPage = () => {
     const [reviews, setReviews] = useReviews();
-    console.log(reviews)
+
     return (
         <div className='min-h-[70vh]'>
             <div>
@@ -12,7 +12,7 @@ const ReviewPage = () => {
             </div>
             <div className='grid grid-cols-3 gap-8 pl-16 pr-16'>
                 {
-                    // reviews.map(review => <Review key={review.id} review={review}></Review>)
+                    reviews?.map(review => <Review key={review.id} review={review}></Review>)
                 }
             </div>
         </div>

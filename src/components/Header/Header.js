@@ -10,7 +10,11 @@ const Header = () => {
                     <img src={blockchainbuddy} alt="" />
                 </Link>
             </div>
-                <h2 className='text-4xl text-white font-mono'>Blockchain Buddy</h2>
+            <div>
+                <Link to='/'>
+                    <h2 className='text-4xl text-white font-mono'>Blockchain Buddy</h2>
+                </Link>
+            </div>
             <div className='text-white font-medium'>
                 <NavLink
                     className={({isActive}) => (isActive ? 'mr-8 text-black' : 'mr-8 text-white')}

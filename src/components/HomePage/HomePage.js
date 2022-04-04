@@ -10,7 +10,7 @@ const HomePage = () => {
                 <button className='btn rounded bg-indigo-400 p-3 font-thin text-white mt-6  transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300' href='https://www.g2.com/products/ethereum/reviews#details'>Read More</button>
             </div>
             <div>
-                <img className='ml-12' src={ethereum} alt="" />
+                <img className='ml-20' src={ethereum} alt="" />
             </div>
         </div>
     );

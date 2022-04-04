@@ -8,7 +8,7 @@ const Dashboard = () => {
             .then(res => res.json())
             .then(data => setData(data))
     }, []);
-    console.log(data);
+
     return (
         <div className='grid grid-cols-2 gap-4 px-16 my-10 min-h-[70vh]'>
             <div>
@@ -29,7 +29,7 @@ const Dashboard = () => {
                         <XAxis dataKey="month" />
                         <YAxis />
                         <Tooltip />
-                        <Line type="monotone" dataKey="investment" stroke="#8884d8" fill="#8884d8" />
+                        <Line type="monotone" dataKey="sell" stroke="#8884d8" fill="#8884d8" />
                     </LineChart>
                 </ResponsiveContainer>
             </div>
