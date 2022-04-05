@@ -7,7 +7,7 @@ Blockchain Buddy is a largest tech marketplace where businesses can discover, re
 Netlify Live Site [Link](https://blockchainbuddy.netlify.app/)
 
 
-### Tech Used
+### Tech That Used In This Project
 
 - Details:
     - HTML
@@ -22,5 +22,8 @@ Netlify Live Site [Link](https://blockchainbuddy.netlify.app/)
 
 ### About The Project
 
-Blockchain Buddy is a Marketplace based Web Application. Its Build in React.js which is a Javascript library. Its still a Front-end project and used fakedata in public folder. Here people review blockchain based currrency like bitcoin, ethereum and more. 
+- Blockchain Buddy is a Marketplace based Web Application.
+- Its Build in React.js which is a Javascript library.
+- Its still a Front-end project and used fakedata in public folder.
+- Here people review blockchain based currrency like bitcoin, ethereum and more. 
 

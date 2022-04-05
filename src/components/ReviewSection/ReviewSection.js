@@ -4,7 +4,7 @@ import { ReviewContext } from '../../App';
 import Review from '../Review/Review';
 
 const ReviewSection = () => {
-    const [reviews, setReviews] = useContext(ReviewContext);
+    const [reviews] = useContext(ReviewContext);
     return (
         <div>
             <h2 className='text-5xl text-center font-mono font-semibold text-gray-600 mt-10 mb-8'>Review Section</h2>

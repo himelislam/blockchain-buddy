@@ -24,7 +24,7 @@ const Header = () => {
                 <NavLink
                     className={({isActive}) => (isActive ? 'mr-8 text-black' : 'mr-8 text-white')}
                     to='/review'>
-                    Review
+                    Reviews
                 </NavLink>
                 <NavLink
                     className={({isActive}) => (isActive ? 'mr-8 text-black' : 'mr-8 text-white')}
